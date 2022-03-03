@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAssetsReading</string>
+    <string name="file_provider_authority" translatable="false">com.mirislam.readasset.fileprovider</string>
+
+</resources>
